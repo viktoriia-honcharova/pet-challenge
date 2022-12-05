@@ -1,3 +1,33 @@
 body {
   font-family: "Nunito Sans", sans-serif;
 }
+
+.hero {
+  background-color: #344f96;
+  height: 600px;
+  margin: 0 auto;
+  color: white;
+}
+
+.hero-heading {
+  font-weight: 700;
+  font-size: 70px;
+}
+
+.hero-icons {
+  margin-right: 20px;
+  background-color: #ee6d8d;
+  padding: 15px;
+  border-radius: 20px;
+}
+
+.icon-text {
+  font-weight: 700;
+  margin: 0;
+  font-size: 14px;
+}
+
+.hero-text {
+  font-weight: 300;
+  width: 80%;
+}
